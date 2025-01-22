@@ -8,4 +8,4 @@ To install the necessary dependencies, use [pip](https://pypi.org/project/pip/):
 - **Alexandra Curry**
 - *Zackary Pond*
 - Anthony Navarez
-- Clayton Ramsey
+- Vince Carillo
