@@ -9,3 +9,4 @@ To install the necessary dependencies, use [pip](https://pypi.org/project/pip/):
 - *Zackary Pond*
 - Anthony Navarez
 - Vince Carillo
+- Clayton Ramsey
